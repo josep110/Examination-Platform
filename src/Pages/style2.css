@@ -1,0 +1,92 @@
+.main {
+    font-size:100%;
+    font-size:16px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display:block;
+    border:brown;
+    border-style:solid;
+    border-radius:8px;
+    width:25%;
+    height: 550px;
+
+
+}
+#login {
+
+    text-align: center;
+    font-size:20px;
+    margin-bottom:30px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+.button {
+
+    display:block;
+    color:white;
+    border:none;
+    border-radius:8px;
+    text-transform:uppercase;
+    width: 40%;
+    height:60px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:17px;
+    background-color: #318CE7;
+    letter-spacing: 0.8px;
+
+
+
+
+}
+
+.button:hover{
+    background-color: #007FFF
+}
+
+#signUp{
+    text-align:center;
+    font-size:30px;
+    margin-top:30px;
+}
+
+#head{
+    margin-left:25%;
+    font-size:20px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.type{
+    margin:8px;
+    width:100%;
+
+
+}
+.SI input[type="text"],
+.SI input[type="password"],
+.SI input[type="email"]{
+    border:1px solid #c4c4c4;
+    border-radius: 8px;
+    width:50%;
+    height:40px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+
+
+}
+select{
+    margin-top:10px;
+    margin-bottom: 30px;
+    border:1px solid #c4c4c4;
+    border-radius: 8px;
+
+
+}
